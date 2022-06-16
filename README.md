@@ -1,5 +1,5 @@
 # Real-time chat application
-In this project, I built a full stack web application using Socket.io and React.js to implement a basic real-time chat application that supports 2 or more users. 
+In this project, I built a full stack web application using Socket.io and React.js to implement a basic real-time chat application that supports 2 or more users with CSS files provided by online tutorial. 
 
 ## Implementation Details
 - Required node.js
